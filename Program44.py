@@ -3,7 +3,7 @@ def CountEvenOdd(Brr):
     iEven = 0 
     iOdd = 0
     
-     
+       
     for no in Brr:
         if(no % 2 == 0):
             iEven += 1
