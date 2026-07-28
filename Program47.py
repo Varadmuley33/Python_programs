@@ -2,7 +2,7 @@
 def ReverseArray(Brr):
     i = 0 
     Crr = []
-    
+      
     
     for i in range (len(Brr)- 1 , -1, -1):
         Crr.append(Brr[i])
