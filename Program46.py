@@ -14,7 +14,7 @@ def main ():
     print("Please enter the elements : ")
     
     for i in range (1,iLength + 1):
-        no = int (input())
+        no = int (input())   
         Arr.append(no)
         
     ReverseArray(Arr)
