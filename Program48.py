@@ -2,7 +2,7 @@
 def ReturnEven(Brr):
     i = 0 
     Crr = []
-    
+       
     
     for i in range (len(Brr)- 1 , -1, -1):
         if(Brr[i] % 2 == 0):
