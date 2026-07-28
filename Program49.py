@@ -7,7 +7,7 @@ def Update(Brr):
             Brr[i] = Brr[i] + 1
             
             
-
+   
 def main ():
     
     print("Enter the number of elements :")
