@@ -8,7 +8,7 @@ def CountEvenOdd(Brr):
        
     return iEven , len(Brr)-iEven  # we can erite in this way also 
 
-
+   
 
 def main ():
     
