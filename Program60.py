@@ -13,7 +13,7 @@ def CountVowels(Data):
 
 
 def main ():
-    
+      
     print("Enter string:")
     str = input()
     
