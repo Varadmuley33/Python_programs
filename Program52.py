@@ -5,7 +5,7 @@ def main ():
     str = input()
     
     print(str)
-    
+       
     print(len(str))
     
     print(type(str))
