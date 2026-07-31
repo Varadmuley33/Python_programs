@@ -11,7 +11,7 @@ def CountVowels(data):
     return iCount
     
 
-
+   
 def main ():
     
     print("Enter string:")
