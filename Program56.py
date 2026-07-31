@@ -8,7 +8,7 @@ def CountFrequency(data):
             return iCount
     
 
-
+   
 def main ():
     
     print("Enter string:")
