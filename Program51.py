@@ -1,7 +1,7 @@
 
 def ReverseArray(Brr):
     iStart = 0 
-    iEnd = len(Brr) - 1
+    iEnd = len(Brr) - 1  
    
     
     while (iStart < iEnd):
