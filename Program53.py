@@ -1,4 +1,4 @@
-
+  
 def main ():
     
     print("Enter string:")
