@@ -7,7 +7,7 @@ def CountVowels(data):
         if(ch in pattern):
             iCount += 1
             
-            
+               
     return iCount
     
 
