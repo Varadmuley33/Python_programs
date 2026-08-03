@@ -5,7 +5,7 @@ def CountVowels(data):
         if(ch == 'a' or ch == 'e' or ch == 'i'or ch == 'o' or ch == 'u'):
             iCount += 1
     return iCount
-    
+        
    
 
 def main ():
