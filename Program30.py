@@ -16,7 +16,7 @@ def CountDigitsX(iNo):
         iNo = iNo // 10
     return iCount4 , iCount5 , iCount7
     
-    
+       
     
 
 def main ():
