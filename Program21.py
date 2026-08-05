@@ -4,7 +4,7 @@ def Display(No):
         print(" * ",end="\t")
         i = i + 1
         
-    print("")
+    print("")  
         
          
 def main():
