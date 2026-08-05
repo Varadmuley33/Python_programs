@@ -15,6 +15,6 @@ def main():
     
     DisplayDigits(Value)
     
-    
+      
 if __name__ == "__main__":
     main()
