@@ -9,7 +9,7 @@ def CountEvenDigits(iNo):
         iNo = iNo // 10
         
     return iCount
-    
+      
 
 def main ():
     print("Enter the number :")
