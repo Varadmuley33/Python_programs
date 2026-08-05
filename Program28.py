@@ -9,7 +9,7 @@ def Reverse(iNo):
     return iRev 
     
         
-    
+       
 
 def main ():
     print("Enter the number :")
