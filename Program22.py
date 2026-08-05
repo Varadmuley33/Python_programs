@@ -4,7 +4,7 @@ def Display(No):
         
     print("")
         
-         
+           
 def main():
     
     print("Enter  number : ")
