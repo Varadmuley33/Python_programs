@@ -8,7 +8,7 @@ def SumDigits(No):
         iDigit = No % 10
         iSum = iSum + iDigit 
         No = No // 10
-    
+        
     return iSum
             
 def main():
