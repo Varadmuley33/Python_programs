@@ -15,7 +15,7 @@ def Display(iRow , iCol):
             print("*",end="\t")
         print()
             
-    
+       
         
 def main ():
     
