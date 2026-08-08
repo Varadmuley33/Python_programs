@@ -5,7 +5,7 @@ def Display(iNo):
     
     for i in range (-iNo,iNo+1,1):
         print(i , end = "\t")
-
+   
         
 def main ():
     
