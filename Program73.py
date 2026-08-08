@@ -9,7 +9,7 @@ def Display(iNo):
         print(i , end = "\t")
         
     
-        
+          
 def main ():
     
     print("Enter the value :")
