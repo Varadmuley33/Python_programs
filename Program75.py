@@ -5,7 +5,7 @@
 # H E L L O 
 # H E L L O 
 
-
+   
 def Display(Data):
     
     for i in range (len(Data)):
