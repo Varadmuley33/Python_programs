@@ -1,6 +1,6 @@
 #input 4 
 # -4 -3 -2 -1
-
+  
 def Display(iNo):
     
     for i in range (-iNo,0,-1):
